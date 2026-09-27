@@ -102,10 +102,10 @@ Supporting alumni engagement and coordination activities.
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nakshashaik&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakshashaik&layout=compact&theme=transparent&hide_border=true)
----
+- 💻 Building projects in AI/ML, backend and full-stack development
+- 🧩 150+ DSA problems solved on LeetCode
+- 🚀 Actively developing and contributing to software projects
+- 📚 Continuously learning AI, system design and backend engineering
 
 ## 🤝 Connect With Me
 
