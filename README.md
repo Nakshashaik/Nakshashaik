@@ -102,8 +102,9 @@ Supporting alumni engagement and coordination activities.
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nakshashaik\&show_icons=true\&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nakshashaik&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakshashaik&layout=compact&theme=transparent&hide_border=true)
 ---
 
 ## 🤝 Connect With Me
